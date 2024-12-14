@@ -26,6 +26,6 @@ function Services() {
       </div>
     </section>
   );
-}
+}///////////////////////////////////////////////////////////
 
 export default Services;
