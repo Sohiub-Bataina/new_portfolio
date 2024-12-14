@@ -1,0 +1,44 @@
+/* تقليل ارتفاع الـ Navbar */
+.navbar {
+    padding: 10px 20px;
+    background-color: #333; /* الخلفية الداكنة */
+}
+
+.navbar-brand img {
+    width: 35%; /* تقليل حجم الشعار */
+    height: auto;
+}
+
+/* ترتيب الروابط بشكل أفضل */
+.navbar-nav {
+    margin-left: auto;
+}
+
+.nav-item {
+    margin-left: 20px; /* إضافة مسافة بين الروابط */
+}
+
+/* تحسين التنسيق عند التمرير */
+.nav-link {
+    font-size: 1rem;
+    color: #fff;
+    transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+    color: #ff6f61; /* تغيير اللون عند التمرير */
+}
+
+/* تغيير تنسيق الأيقونة في الأجهزة الصغيرة */
+.navbar-toggler-icon {
+    background-color: #fff; /* جعل أيقونة القائمة البيضاء */
+}
+
+/* تحسين التفاعل عند التمرير */
+.navbar-nav .nav-item {
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.navbar-nav .nav-item:hover {
+    transform: translateY(-5px); /* تأثير الرفع عند التمرير */
+}
