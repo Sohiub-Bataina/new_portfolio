@@ -11,7 +11,7 @@ function Projects() {
       description:
         "As the product owner and full-stack developer, I led a team to create a full-stack e-commerce platform for watches, integrating Google login, PayPal (with sandbox setup), and ChatGPT for customer support, ensuring a seamless user experience.",
       github: "https://github.com/saja-massimi/waqt2",
-      linkedin: "https://www.linkedin.com/posts/username/waqt",
+      linkedin: "https://www.linkedin.com/posts/sohiub-bataineh_orangecodingacademy-fullstackdevelopment-activity-7260634180563177472-uRJF?utm_source=share&utm_medium=member_desktop",
     },
     {
       title: "FIT ME - Fitness Club Website",
@@ -19,9 +19,17 @@ function Projects() {
       description:
         "An interactive, responsive fitness club website designed to boost member engagement, built with HTML, CSS, and JavaScript. Designs were translated from Sketch to code using Figma, with team coordination on Trello and API integration for dynamic data.",
       github: "https://github.com/sultan-bassam08/FitME_PROJECT_JAVASCRIPT",
-      linkedin: "https://www.linkedin.com/posts/username/fitme",
+      linkedin: "https://www.linkedin.com/posts/sohiub-bataineh_teamwork-fitnesswebsite-webdevelopment-activity-7250614379635740673-8pDA?utm_source=share&utm_medium=member_desktop",
     },
     // أضف المشروع الثالث هنا
+    {
+      title: "Tayeb - Interactive Cooking Blog",
+      image: require("../assets/images/logo3.png"),  // تأكد من المسار الصحيح
+      description:
+        "A versatile website designed for recipe lovers, featuring browsing, sharing, and uploading capabilities. Developed with React for the front-end and Laravel with MySQL for the back-end, ensuring smooth API connectivity and user-friendly functionality.",
+      github: "https://github.com/sultan-bassam08/FitME_PROJECT_JAVASCRIPT",
+      linkedin: "https://www.linkedin.com/posts/username/fitme",
+    },
   ];
 
   return (

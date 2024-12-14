@@ -1,6 +1,6 @@
 import React from "react";
 import "./../assets/styles/Hero.css";
-import heroImage from './../assets/images/WhatsApp_Image_2024-09-20_at_21.40.25_f5a17629-removebg-preview.png';
+import heroImage from './../assets/images/image2.png';
 
 function Hero() {
   return (

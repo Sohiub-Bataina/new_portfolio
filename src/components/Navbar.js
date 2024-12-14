@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "./../assets/images/WhatsApp_Image_2024-09-20_at_23.03.57_65214154-removebg-preview.png";
+import logo from "./../assets/images/image1.png";
 import { Navbar, Nav, Container } from "react-bootstrap";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
