@@ -21,13 +21,13 @@ function Projects() {
       github: "https://github.com/sultan-bassam08/FitME_PROJECT_JAVASCRIPT",
       linkedin: "https://www.linkedin.com/posts/sohiub-bataineh_teamwork-fitnesswebsite-webdevelopment-activity-7250614379635740673-8pDA?utm_source=share&utm_medium=member_desktop",
     },
-    // أضف المشروع الثالث هنا
+    
     {
       title: "Tayeb - Interactive Cooking Blog",
-      image: require("../assets/images/logo3.png"),  // تأكد من المسار الصحيح
+      image: require("../assets/images/logo3.png"), 
       description:
         "A versatile website designed for recipe lovers, featuring browsing, sharing, and uploading capabilities. Developed with React for the front-end and Laravel with MySQL for the back-end, ensuring smooth API connectivity and user-friendly functionality.",
-      github: "https://github.com/sultan-bassam08/FitME_PROJECT_JAVASCRIPT",
+      github: "https://github.com/Razanhroub/Tayeb_React_Laravel",
       linkedin: "https://www.linkedin.com/posts/username/fitme",
     },
   ];
